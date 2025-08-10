@@ -76,14 +76,7 @@ EL_Internship_Tasks/
 2. Navigate to the specific task folder:
    cd Task4
 3. Follow the README inside each folder for setup and usage instructions.
-📈 Outputs
-Each task folder contains:
 
-Code files
-
-Output screenshots
-
-Documentation (DOCX/PDF)
 📈 Outputs
 Each task folder contains:
 
